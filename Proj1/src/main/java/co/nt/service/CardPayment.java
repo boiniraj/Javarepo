@@ -8,7 +8,7 @@ public class CardPayment
 	}
 
 
-	public String Crad()
+	public String  m3()
 	{
 		return "Succus";
 
