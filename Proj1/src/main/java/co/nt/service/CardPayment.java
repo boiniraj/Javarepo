@@ -6,5 +6,9 @@ public class CardPayment
 	{
 		return"Payment SuccusFully Updated";
 	}
+	public void m1()
+	{
+		System.out.println("m1");
+	}
 
 }
