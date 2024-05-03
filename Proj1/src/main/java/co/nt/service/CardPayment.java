@@ -8,9 +8,9 @@ public class CardPayment
 	}
 
 
-	public String Crad()
+	public void m1()
 	{
-		return "Succus";
+		System.out.print(false);
 
 	}
 
