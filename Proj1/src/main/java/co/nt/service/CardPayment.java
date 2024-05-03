@@ -6,9 +6,12 @@ public class CardPayment
 	{
 		return"Payment SuccusFully Updated";
 	}
-	public void Card()
+
+
+	public String Crad()
 	{
-		System.out.println("m1");
+		return "Succus";
+
 	}
 
 	
