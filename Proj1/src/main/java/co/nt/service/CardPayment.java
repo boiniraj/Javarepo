@@ -6,11 +6,7 @@ public class CardPayment
 	{
 		return"Payment SuccusFully Updated";
 	}
+
 	
-	public String Card()
-	{
-		return "Payment Succusfully Completed";
-	}
-     
 
 }
