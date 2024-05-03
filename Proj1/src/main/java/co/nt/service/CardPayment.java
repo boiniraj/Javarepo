@@ -6,6 +6,11 @@ public class CardPayment
 	{
 		return"Payment SuccusFully Updated";
 	}
+     
+	public String Crad()
+	{
+		return "Succus";
+	}
 
 	
 
