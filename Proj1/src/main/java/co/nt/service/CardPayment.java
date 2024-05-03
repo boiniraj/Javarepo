@@ -8,9 +8,12 @@ public class CardPayment
 	}
 
 
-	public String  m3()
+
+
+	public void m1()
+
 	{
-		return "Succus";
+		System.out.print(false);
 
 	}
 
